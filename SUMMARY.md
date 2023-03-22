@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Some Generic Project](README.md)
+* [Awesome Platform Fighter](README.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 
