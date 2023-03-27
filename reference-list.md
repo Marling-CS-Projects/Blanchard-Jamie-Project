@@ -14,6 +14,12 @@ René T. Proyer, 2013. The well-being of playful adults: Adult playfulness, sub
 
 René T. Proyer, 2013. The well-being of playful adults: Adult playfulness, subjective well-being, physical well-being, and the pursuit of enjoyable activities. The European Journal of Humour Research 1, 84–98.
 
+Nintendo of America, 2021. Super Smash Bros.TM Ultimate – Battling with Sora – Nintendo Switch. YouTube.
+
+IR Information : Sales Data - Top Selling Title Sales Units \[WWW Document], n.d. . Nintendo Co., Ltd. URL https://www.nintendo.co.jp/ir/en/finance/software/index.html (accessed 10.4.21).
+
+urbanemujoe, 2022. 2022 Essential Facts About the Video Game Industry \[WWW Document]. Entertainment Software Association. URL https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/ (accessed 3.27.23).
+
 Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/3985/super-smash-bros/ (accessed 3.27.23c).
 
 Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/6778/super-smash-bros-melee/ (accessed 3.24.23a).
