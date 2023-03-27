@@ -13,3 +13,15 @@ Ehren, S.V., 2020. Why do people love games? The New York Times.
 René T. Proyer, 2013. The well-being of playful adults: Adult playfulness, subjective well-being, physical well-being, and the pursuit of enjoyable activities. The European Journal of Humour Research 1, 84–98.
 
 René T. Proyer, 2013. The well-being of playful adults: Adult playfulness, subjective well-being, physical well-being, and the pursuit of enjoyable activities. The European Journal of Humour Research 1, 84–98.
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/3985/super-smash-bros/ (accessed 3.27.23c).
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/6778/super-smash-bros-melee/ (accessed 3.24.23a).
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/23937/super-smash-bros-brawl/ (accessed 3.24.23b).
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/33625/super-smash-bros/ (accessed 3.27.23d).
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/35839/super-smash-bros-ultimate/ (accessed 3.27.23e).
+
+Ratings \[WWW Document], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/37984/nickelodeon-all-star-brawl/ (accessed 3.27.23f).
