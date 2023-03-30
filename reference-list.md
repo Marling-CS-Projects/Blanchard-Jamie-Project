@@ -24,6 +24,10 @@
 
 [Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/23937/super-smash-bros-brawl/ (accessed 3.24.23b).](https://www.esrb.org/ratings/23937/super-smash-bros-brawl/)
 
+[Director of Written Content, 2023. History of Chess. Chess.com.](https://www.chess.com/article/view/history-of-chess)
+
+[Pete, 2014. Chess.com: 1 Billion Games Served. Chess.com.](https://www.chess.com/article/view/chesscom-1-billion-games-served)
+
 [Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/33625/super-smash-bros/ (accessed 3.27.23d).](https://www.esrb.org/ratings/33625/super-smash-bros/)
 
 [Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/35839/super-smash-bros-ultimate/ (accessed 3.27.23e).](https://www.esrb.org/ratings/35839/super-smash-bros-ultimate/)
