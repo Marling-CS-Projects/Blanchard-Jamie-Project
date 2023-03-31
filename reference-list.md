@@ -14,7 +14,7 @@
 
 [Nintendo of America, 2021. Super Smash Bros.TM Ultimate – Battling with Sora – Nintendo Switch. YouTube.](https://www.youtube.com/watch?v=L-q6Gz\_4Yqc)
 
-[IR Information : Sales Data - Top Selling Title Sales Units \[WWW Document\], n.d. . Nintendo Co., Ltd. URL https://www.nintendo.co.jp/ir/en/finance/software/index.html (accessed 10.4.21).](https://web.archive.org/web/20211006230937/https://www.nintendo.co.jp/ir/en/finance/software/index.html)
+[Nintendo, 2021. IR Information : Sales Data - Top Selling Title Sales Units \[WWW Document\]. Nintendo Co., Ltd. URL https://www.nintendo.co.jp/ir/en/finance/software/index.html (accessed 3.31.23).](https://web.archive.org/web/20211006230937/https://www.nintendo.co.jp/ir/en/finance/software/index.html)
 
 [Entertainment Software Association, 2022. 2022 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/)
 
