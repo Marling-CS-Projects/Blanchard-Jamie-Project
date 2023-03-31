@@ -18,20 +18,8 @@
 
 [Entertainment Software Association, 2022. 2022 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/)
 
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/3985/super-smash-bros/ (accessed 3.27.23c).](https://www.esrb.org/ratings/3985/super-smash-bros/)
-
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/6778/super-smash-bros-melee/ (accessed 3.24.23a).](https://www.esrb.org/ratings/6778/super-smash-bros-melee/)
-
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/23937/super-smash-bros-brawl/ (accessed 3.24.23b).](https://www.esrb.org/ratings/23937/super-smash-bros-brawl/)
-
 [Director of Written Content, 2023. History of Chess. Chess.com.](https://www.chess.com/article/view/history-of-chess)
 
 [Pete, 2014. Chess.com: 1 Billion Games Served. Chess.com.](https://www.chess.com/article/view/chesscom-1-billion-games-served)
-
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/33625/super-smash-bros/ (accessed 3.27.23d).](https://www.esrb.org/ratings/33625/super-smash-bros/)
-
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/35839/super-smash-bros-ultimate/ (accessed 3.27.23e).](https://www.esrb.org/ratings/35839/super-smash-bros-ultimate/)
-
-[Ratings \[WWW Document\], n.d. . ESRB Ratings. URL https://www.esrb.org/ratings/37984/nickelodeon-all-star-brawl/ (accessed 3.27.23f).](https://www.esrb.org/ratings/37984/nickelodeon-all-star-brawl/)
 
 [Kain, E., 2023. ‘Elden Ring’ Was The Second Best-Selling Video Game Of 2022. Forbes.](https://www.forbes.com/sites/erikkain/2023/01/18/elden-ring-was-the-second-best-selling-video-game-of-2022/?sh=3e6719bb6869)
