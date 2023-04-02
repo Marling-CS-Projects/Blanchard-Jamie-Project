@@ -23,3 +23,7 @@
 [Pete, 2014. Chess.com: 1 Billion Games Served. Chess.com.](https://www.chess.com/article/view/chesscom-1-billion-games-served)
 
 [Kain, E., 2023. ‘Elden Ring’ Was The Second Best-Selling Video Game Of 2022. Forbes.](https://www.forbes.com/sites/erikkain/2023/01/18/elden-ring-was-the-second-best-selling-video-game-of-2022/?sh=3e6719bb6869)
+
+[Nintendo of America, 2019. Super Smash Bros. Ultimate - New content approaching - Nintendo switch. YouTube.](https://www.youtube.com/watch?v=FmuTGcbu4Kc)
+
+[Pegi, 2023. Pegi Public Site \[WWW Document\]. Pegi Public Site. URL https://pegi.info/ (accessed 4.2.23).](https://pegi.info/)
