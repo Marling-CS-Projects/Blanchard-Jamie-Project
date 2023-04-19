@@ -27,3 +27,13 @@
 [Nintendo of America, 2019. Super Smash Bros. Ultimate - New content approaching - Nintendo switch. YouTube.](https://www.youtube.com/watch?v=FmuTGcbu4Kc)
 
 [Pegi, 2023. Pegi Public Site \[WWW Document\]. Pegi Public Site. URL https://pegi.info/ (accessed 4.2.23).](https://pegi.info/)
+
+[Nintendo, n.d. Super Smash Bros. Ultimate \[WWW Document\]. Nintendo. URL https://www.smashbros.com/en\_GB/ (accessed 4.19.23).](https://www.smashbros.com/en\_GB/)
+
+[Forance, D., n.d. Home \[WWW Document\]. Rivals of Aether. URL https://rivalsofaether.com/ (accessed 4.19.23).](https://rivalsofaether.com/)
+
+[Nickelodeon, 2021. Nickelodeon All-Star Brawl \[WWW Document\]. Nickelodeon All-Star Brawl. URL https://nickelodeonallstarbrawl.com/ (accessed 4.19.23).](https://nickelodeonallstarbrawl.com/)
+
+[Wichary, M., 2018. International keyboard layouts in 2017 - Marcin Wichary. Medium.](https://mwichary.medium.com/international-apple-keyboards-layouts-93437d7f9273)
+
+[SmashWiki, 2023. SmashWiki, the Super Smash Bros. wiki. SmashWiki.](https://www.ssbwiki.com/)
