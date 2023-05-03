@@ -1,5 +1,7 @@
 # Reference list
 
+## 1.1
+
 [Chojnacki, R., 2020. Across All Age Groups, U.S. Consumers are Investing More of Their Entertainment Participation, Time and Money on Video Games, Reports The NPD Group \[WWW Document\]. The NPD Group. URL https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/ (accessed 3.23.23).](https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/)
 
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
@@ -18,6 +20,8 @@
 
 [Entertainment Software Association, 2022. 2022 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/)
 
+## 1.2
+
 [Director of Written Content, 2023. History of Chess. Chess.com.](https://www.chess.com/article/view/history-of-chess)
 
 [Pete, 2014. Chess.com: 1 Billion Games Served. Chess.com.](https://www.chess.com/article/view/chesscom-1-billion-games-served)
@@ -28,15 +32,21 @@
 
 [Pegi, 2023. Pegi Public Site \[WWW Document\]. Pegi Public Site. URL https://pegi.info/ (accessed 4.2.23).](https://pegi.info/)
 
+## 1.3
+
 [Nintendo, n.d. Super Smash Bros. Ultimate \[WWW Document\]. Nintendo. URL https://www.smashbros.com/en\_GB/ (accessed 4.19.23).](https://www.smashbros.com/en\_GB/)
 
 [Forance, D., n.d. Home \[WWW Document\]. Rivals of Aether. URL https://rivalsofaether.com/ (accessed 4.19.23).](https://rivalsofaether.com/)
 
 [Nickelodeon, 2021. Nickelodeon All-Star Brawl \[WWW Document\]. Nickelodeon All-Star Brawl. URL https://nickelodeonallstarbrawl.com/ (accessed 4.19.23).](https://nickelodeonallstarbrawl.com/)
 
+## 1.4
+
 [Wichary, M., 2018. International keyboard layouts in 2017 - Marcin Wichary. Medium.](https://mwichary.medium.com/international-apple-keyboards-layouts-93437d7f9273)
 
 [SmashWiki, 2023. SmashWiki, the Super Smash Bros. wiki. SmashWiki.](https://www.ssbwiki.com/)
+
+## 1.6
 
 [Microsoft, 2023. Visual Studio 2022 System Requirements \[WWW Document\]. Microsoft Learn. URL https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements (accessed 5.3.23).](https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements)
 
