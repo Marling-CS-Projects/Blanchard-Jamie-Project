@@ -37,3 +37,13 @@
 [Wichary, M., 2018. International keyboard layouts in 2017 - Marcin Wichary. Medium.](https://mwichary.medium.com/international-apple-keyboards-layouts-93437d7f9273)
 
 [SmashWiki, 2023. SmashWiki, the Super Smash Bros. wiki. SmashWiki.](https://www.ssbwiki.com/)
+
+[Microsoft, 2023. Visual Studio 2022 System Requirements \[WWW Document\]. Microsoft Learn. URL https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements (accessed 5.3.23).](https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements)
+
+[Microsoft, 2023. Windows 11 System Requirements \[WWW Document\]. Microsoft Support. URL https://support.microsoft.com/en-us/ (accessed 5.3.23).](https://support.microsoft.com/en-us/)
+
+[StatCounter, 2023. Desktop Operating System Market Share Worldwide \[WWW Document\]. StatCounter Global Stats. URL https://gs.statcounter.com/os-market-share/desktop/worldwide/ (accessed 5.3.23).](https://gs.statcounter.com/os-market-share/desktop/worldwide/)
+
+[WINE, 2023. WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS \[WWW Document\]. WineHQ. URL https://www.winehq.org/ (accessed 5.3.23).](https://www.winehq.org/)
+
+[Ubuntu, 2023. System requirements \[WWW Document\]. Ubuntu. URL https://ubuntu.com/core/docs/system-requirements (accessed 5.3.23).](https://ubuntu.com/core/docs/system-requirements)
