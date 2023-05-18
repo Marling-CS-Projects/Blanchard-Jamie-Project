@@ -6,6 +6,8 @@
 
 [Powell, S. (2022, March 30). _The UK video games market is worth a record £7.16bn_. BBC News. https://www.bbc.co.uk/news/newsbeat-60925567](https://www.bbc.co.uk/news/newsbeat-60925567)
 
+
+
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
 [Cowley, B., Charles, D., Black, M., Hickey, R., 2008. Toward an Understanding of Flow in Video Games. Comput. Entertain. 6. https://doi.org/10.1145/1371216.1371223](https://doi.org/10.1145/1371216.1371223)
@@ -21,6 +23,8 @@
 [Nintendo, 2021. IR Information : Sales Data - Top Selling Title Sales Units \[WWW Document\]. Nintendo Co., Ltd. URL https://www.nintendo.co.jp/ir/en/finance/software/index.html (accessed 3.31.23).](https://web.archive.org/web/20211006230937/https://www.nintendo.co.jp/ir/en/finance/software/index.html)
 
 [Entertainment Software Association, 2022. 2022 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/)
+
+[Entertainment Software Association, 2021. 2021 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry)
 
 ## 1.2
 
