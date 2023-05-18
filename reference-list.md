@@ -4,6 +4,8 @@
 
 [Chojnacki, R., 2020. Across All Age Groups, U.S. Consumers are Investing More of Their Entertainment Participation, Time and Money on Video Games, Reports The NPD Group \[WWW Document\]. The NPD Group. URL https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/ (accessed 3.23.23).](https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/)
 
+[Powell, S. (2022, March 30). _The UK video games market is worth a record £7.16bn_. BBC News. https://www.bbc.co.uk/news/newsbeat-60925567](https://www.bbc.co.uk/news/newsbeat-60925567)
+
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
 [Cowley, B., Charles, D., Black, M., Hickey, R., 2008. Toward an Understanding of Flow in Video Games. Comput. Entertain. 6. https://doi.org/10.1145/1371216.1371223](https://doi.org/10.1145/1371216.1371223)
