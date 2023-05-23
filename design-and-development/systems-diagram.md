@@ -66,15 +66,13 @@ This is the basic layout of the object to store the details of the game. This wi
 
 ```
 object Game
-    type: Phaser
-    parent: id of HTML element
-    width: width
-    height: height
-    physics: set up for physics
-    scenes: add all menus, levels and other scenes
+    function BeginFrame()
+    function UpdateModel()
+    function ComposeFrame()
+    function EndFrame()
 end object
 
-render Game to HTML web page
+compile game to exe file
 ```
 
 ### Pseudocode for a level
