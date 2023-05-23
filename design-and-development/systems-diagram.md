@@ -32,12 +32,12 @@ Efficiency refers to the speed and accuracy to which a user can complete the goa
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will create 5 levels and an online multiplayer mode to keep the players engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so will draw more people in, keeping them engaged.
+The solution is engaging for the user to use. To do this, I will build the game around the local multiplayer mode as multiplayer keeps players engaged due to the sense of friendly rivalry and friendship. I will also create 5 characters with unique move sets to allow battles to have more uniqueness per battle. Having a simple art style allows players to understand what's going on, reducing frustration.
 
 #### Aims
 
-* Create a series of levels to work through
-* Create a multiplayer mode to play
+* Create a series of characters that players can play as
+* Create a local multiplayer and singleplayer mode
 * Incorporate a style of game art the suits the game
 
 ### Error Tolerant
@@ -56,7 +56,7 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 #### Aims
 
 * Create a list of controls for the game
-* Create an in-level guide that helps players learn how to play the game
+* Create a display in the pause menu that shows player controls
 
 ## Pseudocode for the Game
 
