@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/Computing Diagram.png" alt=""><figcaption></figcaption></figure>
 
-This diagram shows the different parts of the game that I will focus on creating. I have split each section into smaller sub-sections. Throughout the development stage, I will pick one or two of these sections to focus on at a time to gradually build up and piece together the game. I have broken the project down this way as it roughly corresponds to the success criteria.
+This diagram shows the different parts of the game that I will focus on creating. I have split each section into smaller sub-sections. Throughout the development stage, I will pick one or two of these sections to focus on at a time to gradually build up and piece together the game. I have broken the project down this way as it roughly corresponds to the [success criteria](../analysis/1.5-success-criteria.md). This was done with [computational methods](../analysis/1.4b-computational-methods.md) in mind to make development easier.
 
 ## Usability Features
 
@@ -18,12 +18,12 @@ Users can achieve the goal with completeness and accuracy. To do this, I will ma
 
 #### Aims
 
-* Create a clear goal to reach to determine the end of a level
-* Create a clear goal for any multiplayer modes
+* Make the controls easy to use but make movement precise
+* Clearly display lives and percent so each player can see who's winning
 
 ### Efficiency
 
-The speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
+Efficiency refers to the speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
 
 #### Aims
 
