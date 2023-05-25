@@ -63,3 +63,7 @@
 [WINE, 2023. WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS \[WWW Document\]. WineHQ. URL https://www.winehq.org/ (accessed 5.3.23).](https://www.winehq.org/)
 
 [Ubuntu, 2023. System requirements \[WWW Document\]. Ubuntu. URL https://ubuntu.com/core/docs/system-requirements (accessed 5.3.23).](https://ubuntu.com/core/docs/system-requirements)
+
+## 2.1
+
+[planetchili, 2017. GitHub - planetchili/chili\_framework: This is the Chili Framework used in the world-famous, erection-inducing, cancer-curing Planet Chili C++ Tutorials. \[WWW Document\]. GitHub. URL https://github.com/planetchili/chili\_framework (accessed 5.25.23).](https://github.com/planetchili/chili\_framework)
