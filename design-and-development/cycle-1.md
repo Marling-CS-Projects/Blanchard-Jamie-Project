@@ -13,6 +13,8 @@ I plan to tidy up the starting point and make it so that sprite files have a tra
 
 ### Usability Features
 
+* Colour contrast - Especially for early development I need contrasting colours so I can easily identify where each element is. This also makes it more accessable for users.
+
 ### Key Variables
 
 | Variable Name | Use                               |
@@ -39,9 +41,9 @@ static constexpr int ScreenHeight = 1080;
 SpriteEffect.h
 
 ```
-		if (cSrc != 16711935) {
-			gfx.PutPixel(xDest, yDest, cSrc);
-		}
+if (cSrc != 16711935) {
+		gfx.PutPixel(xDest, yDest, cSrc);
+}
 ```
 
 ## Development
@@ -50,7 +52,7 @@ SpriteEffect.h
 
 ### Challenges
 
-I had to identify the specific cSrc for (255,0,255) by using the debugger to find the PutPixel() call for running a sprite and looking for what the cSrc variable was. I also had to decide what was unnecesarry, eventually resulting in the loss of files like Animation.cpp, Animation.h, Bencher.h, Bencher.txt, Character.cpp, Character.h, COMInitializer.cpp and COMInitializer.h
+I had to identify the specific cSrc for (255,0,255) by using the debugger to find the PutPixel() call for running a sprite and looking for what the cSrc variable was. I also had to decide what was unnecesarry, eventually resulting in the loss of files like Animation.cpp, Animation.h, Bencher.h, Bencher.txt, Character.cpp, Character.h, COMInitializer.cpp and COMInitializer.h so that I was only left with the default ChiliFramework and the ability to add sprites. I also had to remove all calls to those functions in files like Game.cpp and Game.h
 
 ## Testing
 
