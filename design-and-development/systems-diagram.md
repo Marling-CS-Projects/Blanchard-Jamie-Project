@@ -62,49 +62,56 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 ### Pseudocode for game
 
-This is the basic layout of the object to store the details of the game. This will be what is rendered as it will inherit all important code for the scenes.
+The starting point from the game will be the Chili Framework [(planetchili, 2017)](../reference-list.md#2.1), a framework used to teach people C++ as a part of a set of tutorial series by ChiliTomatoNoodle starting with Beginner C++ Game Programming [(ChiliTomatoNoodle, 2016)](../reference-list.md#2.1). It allows users to begin their learning with a graphical interface and the ability to display pixels on a blank screen that's 800 pixels wide and 600 pixels high.\
+\
+Being written in only C++ means there's a lot to start with. I'll be starting with a fork of the Chili framework that allows sprites to be used [(planetchili, 2018)](../reference-list.md#2.1). This has lots of starting code but most of the code will be ran in Game.cpp and Game.h. In C++, files are split up into .ccp and .h so that the main functions and code can be stored in the .cpp file and declaration of variables and functions can be stored in the .h file.
+
+Header files have a structure similar to
 
 ```
-object Game
-    function BeginFrame()
-    function UpdateModel()
-    function ComposeFrame()
-    function EndFrame()
-end object
+#pragma once //Only allow one
 
-compile game to exe file
+#include "Keyboard.h" //If needed
+#include "Mouse.h" //If needed
+#include "Graphics.h" //If needed
+
+class Game
+{
+public:
+	Game( class MainWindow& wnd ); //Defines identifier function
+	Game( const Game& ) = delete;
+	Game& operator=( const Game& ) = delete;
+	void Go();
+private:
+	void FunctionName(); //Defines a function
+	/********************************/
+	/*  User Functions              */
+	/********************************/
+private:
+	MainWindow& wnd;
+	Graphics gfx;
+	/********************************/
+	/*  User Variables              */
+	/********************************/
+	int x;//Define variables
+};
 ```
 
-### Pseudocode for a level
-
-This shows the basic layout of code for a Phaser scene. It shows where each task will be executed.
+Cpp files have a structure similar to
 
 ```
-class Level extends Phaser Scene
+#include "[Name of header file].h"
 
-    procedure preload
-        load all sprites and music
-    end procedure
-    
-    procedure create
-        start music
-        draw background
-        create players
-        create platforms
-        create puzzle elements
-        create enemies
-        create obstacles
-        create finishing position
-        create key bindings
-    end procedure
-    
-    procedure update
-        handle key presses
-        move player
-        move interactable objects
-        update animations
-        check if player at exit
-    end procedure
-    
-end class
+Game::Game( MainWindow& wnd )
+	:
+	wnd( wnd ),//Calls the library for windows functions like keyboard inputs
+	gfx( gfx )//Calls the graphics library
+{
+	//Identifier function, only needed if you need wnd or gfx
+}
+
+void Game::Go()
+{
+	//Callable function either from other functions
+}
 ```

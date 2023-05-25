@@ -67,3 +67,7 @@
 ## 2.1
 
 [planetchili, 2017. GitHub - planetchili/chili\_framework: This is the Chili Framework used in the world-famous, erection-inducing, cancer-curing Planet Chili C++ Tutorials. \[WWW Document\]. GitHub. URL https://github.com/planetchili/chili\_framework (accessed 5.25.23).](https://github.com/planetchili/chili\_framework)
+
+[ChiliTomatoNoodle, 2016. Beginner C++ Game Programming DirectX \[WWW Document\]. YouTube. URL https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx (accessed 5.25.23).](https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
+
+[planetchili, 2018. GitHub - planetchili/Sprite: Project files for exploring image loading and sprite topics in Planet Chili Intermediate C++ tutorial series, Tutorial 10+. \[WWW Document\]. GitHub. URL https://github.com/planetchili/Sprite (accessed 5.25.23).](https://github.com/planetchili/Sprite)
