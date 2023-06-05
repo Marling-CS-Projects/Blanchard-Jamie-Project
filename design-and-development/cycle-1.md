@@ -26,11 +26,23 @@ I plan to tidy up the starting point and make it so that sprite files have a tra
 
 ### Pseudocode
 
+{% code title="Game Loop" %}
+```cpp
+function Go
+    run function graphics.BeginFrame
+    run function UpdateModel
+    run function ComposeFrame
+    run function graphics.EndFrame
 ```
-procedure do_something
-    
-end procedure
+{% endcode %}
+
+{% code title="ComposeFrame" %}
 ```
+function ComposeFrame
+    graphics.DrawSprite(0,0,background)
+    graphics.DrawSprite(100,100,character)
+```
+{% endcode %}
 
 ## Development
 
@@ -38,33 +50,33 @@ end procedure
 
 I have altered the code to allow a better starting point. Now, I can add sprites with a transparency effect (so sprites can overlap). This was done by not displaying pixels of colour (255,0,255)
 
-SpriteEffect.h
-
+{% code title="SpriteEffect.h" %}
 ```
 if (cSrc != 16711935) {
 		gfx.PutPixel(xDest, yDest, cSrc);
 }
 ```
+{% endcode %}
 
 I also changed the screen resolution so that I have more screen space to work with
 
-Graphics.cpp
-
+{% code title="Graphics.cpp" %}
 ```
 static constexpr int ScreenWidth = 1920;
 static constexpr int ScreenHeight = 1080;
 ```
+{% endcode %}
 
 After doing this I also had to position the screen so the window fits on the screen
 
-MainWindow.cpp
-
+{% code title="MainWindow.cpp" %}
 ```
 wr.left = 0;
 wr.right = Graphics::ScreenWidth + wr.left;
 wr.top = 0;
 wr.bottom = Graphics::ScreenHeight + wr.top;
 ```
+{% endcode %}
 
 \
 The starting point is also tidy enough that I can clearly see what functions perform what action.&#x20;
@@ -82,5 +94,3 @@ I had to identify the specific cSrc for (255,0,255) by using the debugger to fin
 | Test | Instructions | What I expect                       | What actually happens        | Pass/Fail |
 | ---- | ------------ | ----------------------------------- | ---------------------------- | --------- |
 | 1    | Run code     | The assets to display on the screen | Assets appearing as expected | Pass      |
-
-### Evidence
