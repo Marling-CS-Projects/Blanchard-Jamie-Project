@@ -83,7 +83,7 @@ The starting point is also tidy enough that I can clearly see what functions per
 
 ### Challenges
 
-I had to identify the specific cSrc for (255,0,255) by using the debugger to find the PutPixel() call for running a sprite and looking for the cSrc variable. I also had to decide what was unnecessary, eventually resulting in the loss of files like Animation.cpp, Animation.h, Bencher.h, Bencher.txt, Character.cpp, Character.h, COMInitializer.cpp and COMInitializer.h so that I was only left with the default ChiliFramework and the ability to add sprites. I also had to remove all calls to those functions in files like Game.cpp and Game.h
+I had to identify the specific cSrc for (255,0,255). I did this by using the debugger to find the PutPixel() call for running a sprite. After I found that I could see active variables, so see the cSrc variable for the current colour. I also had to decide what was unnecessary, eventually resulting in the loss of files like Animation.cpp, Animation.h, Bencher.h, Bencher.txt, Character.cpp, Character.h, COMInitializer.cpp and COMInitializer.h so that I was only left with the default ChiliFramework and the ability to add sprites. I also had to remove all calls to those functions in files like Game.cpp and Game.h
 
 ## Testing
 
