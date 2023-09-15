@@ -1,4 +1,4 @@
-# 2.2.1 Cycle 1
+# 2.2.1 Cycle 1 - Setup of Sprites
 
 ## Design
 
@@ -27,7 +27,7 @@ I plan to tidy up the starting point and make it so that sprite files have a tra
 ### Pseudocode
 
 {% code title="Game Loop" %}
-```cpp
+```
 function Go
     run function graphics.BeginFrame
     run function UpdateModel
@@ -43,6 +43,14 @@ function ComposeFrame
     graphics.DrawSprite(100,100,character)
 ```
 {% endcode %}
+
+```
+function DrawSprite
+    for j=0 to character.height
+        for i=0 to character.width
+            if colour != (255,0,255) then
+                PutPixel(x+i, y+j, colour)
+```
 
 ## Development
 
