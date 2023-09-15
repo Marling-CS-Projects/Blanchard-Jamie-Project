@@ -16,8 +16,8 @@
 
 * [Cycle template](design-and-development/cycle-template.md)
 * [2.1 Design Frame](design-and-development/systems-diagram.md)
-* [2.2.1 Cycle 1](design-and-development/cycle-1.md)
-* [2.2.2 Cycle 2](design-and-development/2.2.2-cycle-2.md)
+* [2.2.1 Cycle 1 - Setup of Sprites](design-and-development/cycle-1.md)
+* [2.2.2 Cycle 2 - Basic Movement](design-and-development/2.2.2-cycle-2-basic-movement.md)
 * [2.2.3 Cycle 3](design-and-development/2.2.3-cycle-3.md)
 * [2.2.4 Cycle 4](design-and-development/2.2.4-cycle-4.md)
 * [2.2.5 Cycle 5](design-and-development/2.2.5-cycle-5.md)
