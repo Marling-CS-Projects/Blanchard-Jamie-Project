@@ -95,7 +95,7 @@ I had to identify the specific cSrc for (255,0,255). I did this by using the deb
 
 ## Testing
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Character and stage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Character and stage</p></figcaption></figure>
 
 ### Tests
 
