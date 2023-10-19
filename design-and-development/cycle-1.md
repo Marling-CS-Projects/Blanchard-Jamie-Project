@@ -95,13 +95,15 @@ I had to identify the specific cSrc for (255,0,255). I did this by using the deb
 
 ## Testing
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Character and stage</p></figcaption></figure>
+As currently the user can't input actions, I can only test if the code runs.
 
 ### Tests
 
 | Test | Instructions | What I expect                       | What actually happens        | Pass/Fail |
 | ---- | ------------ | ----------------------------------- | ---------------------------- | --------- |
 | 1    | Run code     | The assets to display on the screen | Assets appearing as expected | Pass      |
+
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Character and stage</p></figcaption></figure>
 
 ### Code
 

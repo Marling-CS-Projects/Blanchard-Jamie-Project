@@ -21,7 +21,7 @@
 * [2.2.4 Cycle 4 - Moves](design-and-development/2.2.4-cycle-4.md)
 * [2.2.5 Cycle 5 - Projectiles](design-and-development/2.2.5-cycle-5.md)
 * [2.2.6 Cycle 6 - Start Menu](design-and-development/2.2.6-cycle-6.md)
-* [2.2.7 Cycle 7 - Advanced Movement and Initialisation](design-and-development/2.2.7-cycle-7.md)
+* [2.2.7 Cycle 7 - Invincibility and Initialisation](design-and-development/2.2.7-cycle-7-invincibility-and-initialisation.md)
 * [2.2.8 Cycle 8 - Individualising Characters](design-and-development/2.2.8-cycle-8.md)
 * [2.2.9 Cycle 9 - Sound](design-and-development/2.2.9-cycle-9.md)
 * [2.2.10 Cycle 10 - AI](design-and-development/2.2.10-cycle-10.md)
