@@ -36,6 +36,8 @@
 
 [Nintendo of America, 2019. Super Smash Bros. Ultimate - New content approaching - Nintendo switch. YouTube.](https://www.youtube.com/watch?v=FmuTGcbu4Kc)
 
+[VGSales. (n.d.). Super smash bros. _Fandom, Inc._ Retrieved October 20, 2023, from http://vgsales.fandom.com/wiki/Super\_Smash\_Bros.](https://vgsales.fandom.com/wiki/Super\_Smash\_Bros.)
+
 [Pegi, 2023. Pegi Public Site \[WWW Document\]. Pegi Public Site. URL https://pegi.info/ (accessed 4.2.23).](https://pegi.info/)
 
 ## 1.3
