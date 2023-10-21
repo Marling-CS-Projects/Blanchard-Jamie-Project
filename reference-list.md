@@ -6,8 +6,6 @@
 
 [Powell, S. (2022, March 30). _The UK video games market is worth a record £7.16bn_. BBC News. https://www.bbc.co.uk/news/newsbeat-60925567](https://www.bbc.co.uk/news/newsbeat-60925567)
 
-
-
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
 [Cowley, B., Charles, D., Black, M., Hickey, R., 2008. Toward an Understanding of Flow in Video Games. Comput. Entertain. 6. https://doi.org/10.1145/1371216.1371223](https://doi.org/10.1145/1371216.1371223)
@@ -27,6 +25,8 @@
 [Entertainment Software Association, 2021. 2021 Essential Facts About the Video Game Industry \[WWW Document\]. Entertainment Software Association. URL https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry (accessed 3.29.23).](https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry)
 
 ## 1.2
+
+[Dsouza, R. (2021, November 24). Why do gamers game? _YouGov_. https://yougov.co.uk/technology/articles/39610-why-do-gamers-game?redirect\_from=%2Ftopics%2Ftechnology%2Farticles-reports%2F2021%2F11%2F24%2Fwhy-do-gamers-game](https://yougov.co.uk/technology/articles/39610-why-do-gamers-game?redirect\_from=%2Ftopics%2Ftechnology%2Farticles-reports%2F2021%2F11%2F24%2Fwhy-do-gamers-game)
 
 [Director of Written Content, 2023. History of Chess. Chess.com.](https://www.chess.com/article/view/history-of-chess)
 
