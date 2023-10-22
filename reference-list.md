@@ -4,7 +4,7 @@
 
 [Chojnacki, R., 2020. Across All Age Groups, U.S. Consumers are Investing More of Their Entertainment Participation, Time and Money on Video Games, Reports The NPD Group \[WWW Document\]. The NPD Group. URL https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/ (accessed 3.23.23).](https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/)
 
-[Powell, S. (2022, March 30). _The UK video games market is worth a record £7.16bn_. BBC News. https://www.bbc.co.uk/news/newsbeat-60925567](https://www.bbc.co.uk/news/newsbeat-60925567)
+[Clement, J. (2023, August 29). _UK spending on digital console & online games 2022_. Statista. https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/](https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/)
 
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
@@ -35,8 +35,6 @@
 [Kain, E., 2023. ‘Elden Ring’ Was The Second Best-Selling Video Game Of 2022. Forbes.](https://www.forbes.com/sites/erikkain/2023/01/18/elden-ring-was-the-second-best-selling-video-game-of-2022/?sh=3e6719bb6869)
 
 [Nintendo of America, 2019. Super Smash Bros. Ultimate - New content approaching - Nintendo switch. YouTube.](https://www.youtube.com/watch?v=FmuTGcbu4Kc)
-
-[VGSales. (n.d.). Super smash bros. _Fandom, Inc._ Retrieved October 20, 2023, from http://vgsales.fandom.com/wiki/Super\_Smash\_Bros.](https://vgsales.fandom.com/wiki/Super\_Smash\_Bros.)
 
 [Pegi, 2023. Pegi Public Site \[WWW Document\]. Pegi Public Site. URL https://pegi.info/ (accessed 4.2.23).](https://pegi.info/)
 
