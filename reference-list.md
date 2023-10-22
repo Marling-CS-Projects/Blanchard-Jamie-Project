@@ -14,7 +14,7 @@
 
 [Ehren, S.V., 2020. Why do people love games? The New York Times.](https://www.nytimes.com/2020/06/11/style/why-people-love-games.html)
 
-[René T. Proyer, 2013. The well-being of playful adults: Adult playfulness, subjective well-being, physical well-being, and the pursuit of enjoyable activities. The European Journal of Humour Research 1, 84–98.](https://www.semanticscholar.org/paper/The-well-being-of-playful-adults:-Adult-subjective-Proyer/d62a0f9f0068004a9ccb3a4b851bde37eac4e6a5?p2df)
+[Bowen, L. (2014, February 1). Video game play may provide learning, health, social benefits, review finds. _Https://Www.Apa.Org_. https://www.apa.org/monitor/2014/02/video-game](https://www.apa.org/monitor/2014/02/video-game)
 
 [Nintendo of America, 2021. Super Smash Bros.TM Ultimate – Battling with Sora – Nintendo Switch. YouTube.](https://www.youtube.com/watch?v=L-q6Gz\_4Yqc)
 
