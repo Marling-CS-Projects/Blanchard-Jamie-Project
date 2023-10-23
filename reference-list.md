@@ -8,7 +8,7 @@
 
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
-[Cowley, B., Charles, D., Black, M., Hickey, R., 2008. Toward an Understanding of Flow in Video Games. Comput. Entertain. 6. https://doi.org/10.1145/1371216.1371223](https://doi.org/10.1145/1371216.1371223)
+[Michailidis, L., Balaguer-Ballester, E., & He, X. (2019). Flow and immersion in video games: The aftermath of a conceptual challenge. _Frontiers in Psychology_, _9_. https://doi.org/10.3389/fpsyg.2018.01682](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01682/full)
 
 [Rollings, A., Morris, D., 2000. Game Architecture and Design. Coriolis Group.](https://www.amazon.co.uk/Game-Architecture-Design-NRG-Programming/dp/0735713634)
 
