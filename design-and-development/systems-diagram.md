@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
-This diagram shows the different parts of the game that I will focus on creating. I have split each section into smaller sub-sections. Throughout the development stage, I will pick one or two of these sections to focus on at a time to gradually build up and piece together the game. I have broken the project down this way as it roughly corresponds to the [success criteria](../analysis/1.5-success-criteria.md). This was done with [computational methods](../analysis/1.4b-computational-methods.md) in mind to make development easier.
+This diagram shows the different parts of the game that I will focus on creating. I have split each section into smaller sub sections. Throughout the development stage, I will pick some of these sections to focus on at a time. I have broken the project down this way as it roughly corresponds to the [success criteria](../analysis/1.5-success-criteria.md). This was done with [computational methods](../analysis/1.4b-computational-methods.md) in mind to make development easier.
 
 ## Usability Features
 
@@ -12,7 +12,7 @@ Usability is an important aspect to my game as I want it to be accessible to all
 
 ### Effective
 
-Users can achieve the goal with completeness and accuracy. To do this, I will make it easy for the players to realise that they need to reach a goal in order to complete a level. I will make this goal clear to see so there is no confusion over where the players need to go.
+This means users can achieve the goal with completeness and accuracy. To do this, I will make it easy for the players to realise that they need to reach a goal in order to win the game. I will make this goal clear to see so there is no confusion over what players need to do.
 
 #### Aims
 
@@ -30,12 +30,12 @@ Efficiency refers to the speed and accuracy to which a user can complete the goa
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will build the game around the local multiplayer mode as multiplayer keeps players engaged due to the sense of friendly rivalry and friendship. I will also create 5 characters with unique move sets to allow battles to have more uniqueness per battle. Having a simple art style allows players to understand what's going on, reducing frustration.
+The solution is engaging for the user to use. To do this, I will build the game around the local multiplayer mode as multiplayer keeps players engaged due to the sense of friendly rivalry and friendship. I will also create at least 5 characters with unique move sets to allow battles to be more unique. Having a simple art style allows players to understand what's going on, reducing frustration.
 
 #### Aims
 
 * Create a series of characters that players can play as
-* Create a local multiplayer and singleplayer mode
+* Create a local multiplayer and single player mode
 * Incorporate a style of game art the suits the game
 
 ### Error Tolerant
@@ -62,7 +62,7 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 The starting point from the game will be the Chili Framework [(planetchili, 2017)](../reference-list.md#2.1), a framework used to teach people C++ as a part of a set of tutorial series by ChiliTomatoNoodle starting with Beginner C++ Game Programming [(ChiliTomatoNoodle, 2016)](../reference-list.md#2.1). It allows users to begin their learning with a graphical interface and the ability to display pixels on a blank screen that's 800 pixels wide and 600 pixels high.\
 \
-Being written in only C++ means there's a lot to start with. I'll be starting with a fork of the Chili framework that allows sprites to be used [(planetchili, 2018)](../reference-list.md#2.1). This has lots of starting code but most of the code will be ran in Game.cpp and Game.h. In C++, files are split up into .ccp and .h so that the main functions and code can be stored in the .cpp file and declaration of variables and functions can be stored in the .h file.
+Being written in only C++ means there's lots of starting code. I'll be starting with a fork of the Chili framework that allows sprites to be used [(planetchili, 2018)](../reference-list.md#2.1). This has lots of foundation, but most of the code will be ran in Game.cpp and Game.h. In C++, files are split up into ccp and h files. Cpp files store the main functions and h files declare variables and functions.
 
 Header files have a structure similar to
 
