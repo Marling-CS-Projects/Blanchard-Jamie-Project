@@ -4,17 +4,17 @@
 
 [Chojnacki, R., 2020. Across All Age Groups, U.S. Consumers are Investing More of Their Entertainment Participation, Time and Money on Video Games, Reports The NPD Group \[WWW Document\]. The NPD Group. URL https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/ (accessed 3.23.23).](https://www.npd.com/news/press-releases/2020/across-all-age-groups-us-consumers-are-investing-more-of-their-entertainment-participation/)
 
-[Clement, J. (2023, August 29). _UK spending on digital console & online games 2022_. Statista. https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/](https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/)
+[Clement, J., 2023. UK spending on digital console & online games 2022 \[WWW Document\]. Statista. URL https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/ (accessed 10.24.23).](https://www.statista.com/statistics/513273/consumer-spending-on-digital-console-and-pc-games-united-kingdom-uk/)
 
 [Epstein, A., 2020. The pandemic has turned everyone into gamers. Quartz.](https://qz.com/1904276/everyone-is-playing-video-games-during-the-pandemic)
 
-[Michailidis, L., Balaguer-Ballester, E., & He, X. (2019). Flow and immersion in video games: The aftermath of a conceptual challenge. _Frontiers in Psychology_, _9_. https://doi.org/10.3389/fpsyg.2018.01682](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01682/full)
+[Michailidis, L., Balaguer-Ballester, E., He, X., 2019. Flow and immersion in video games: The aftermath of a conceptual challenge. Frontiers in Psychology 9. https://doi.org/10.3389/fpsyg.2018.01682](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01682/full)
 
 [Rollings, A., Morris, D., 2000. Game Architecture and Design. Coriolis Group.](https://www.amazon.co.uk/Game-Architecture-Design-NRG-Programming/dp/0735713634)
 
 [Ehren, S.V., 2020. Why do people love games? The New York Times.](https://www.nytimes.com/2020/06/11/style/why-people-love-games.html)
 
-[Bowen, L. (2014, February 1). Video game play may provide learning, health, social benefits, review finds. _Https://Www.Apa.Org_. https://www.apa.org/monitor/2014/02/video-game](https://www.apa.org/monitor/2014/02/video-game)
+[Bowen, L., 2014. Video game play may provide learning, health, social benefits, review finds. https://www.apa.org.](https://www.apa.org/monitor/2014/02/video-game)
 
 [Nintendo of America, 2021. Super Smash Bros.TM Ultimate – Battling with Sora – Nintendo Switch. YouTube.](https://www.youtube.com/watch?v=L-q6Gz\_4Yqc)
 
@@ -26,7 +26,7 @@
 
 ## 1.2
 
-[Dsouza, R. (2021, November 24). Why do gamers game? _YouGov_. https://yougov.co.uk/technology/articles/39610-why-do-gamers-game?redirect\_from=%2Ftopics%2Ftechnology%2Farticles-reports%2F2021%2F11%2F24%2Fwhy-do-gamers-game](https://yougov.co.uk/technology/articles/39610-why-do-gamers-game?redirect\_from=%2Ftopics%2Ftechnology%2Farticles-reports%2F2021%2F11%2F24%2Fwhy-do-gamers-game)
+[Dsouza, R., 2021. Why do gamers game? YouGov.](https://yougov.co.uk/technology/articles/39610-why-do-gamers-game?redirect\_from=%2Ftopics%2Ftechnology%2Farticles-reports%2F2021%2F11%2F24%2Fwhy-do-gamers-game)
 
 [Director of Written Content, 2023. History of Chess. Chess.com.](https://www.chess.com/article/view/history-of-chess)
 
